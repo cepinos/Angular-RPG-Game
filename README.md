@@ -8,5 +8,5 @@ It is been build using these technologies:
 * Jasmine
 * Karma
 * Yeoman
-* javascript
+* Javascript
 * Protractor
